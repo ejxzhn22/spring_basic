@@ -163,7 +163,7 @@
     - 다른 저장소로 변경할 때 OCP 원칙을 잘 준수 하는가?
     - DIP를 잘 지키고 있는가?
     
-    ![image](https://user-images.githubusercontent.com/55370386/160277306-fd56f0bc-c603-4bda-a35b-be1655f5497a.png)
+![image](https://user-images.githubusercontent.com/55370386/160277306-fd56f0bc-c603-4bda-a35b-be1655f5497a.png)
 
     => 의존관계가 인터페이스 뿐만 아니라 구현까지 모두 의존한다.
 
